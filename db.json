@@ -1,0 +1,106 @@
+{
+  "Student": [
+    {
+      "id": 2,
+      "name": "John Doe",
+      "course": "python1",
+      "Email": "johndoe@email.com",
+      "phone": 1234567890,
+      "created_at": "2023-01-18T08:12:30.0000z",
+      "updated_at": "2023-01-18T10:45:20.0000z"
+    },
+    {
+      "id": 3,
+      "name": "Alice Smith",
+      "course": "javascript",
+      "Email": "alice@email.com",
+      "phone": 9876543210,
+      "created_at": "2023-01-19T14:30:15.0000z",
+      "updated_at": "2023-01-20T09:55:42.0000z"
+    },
+    {
+      "id": 4,
+      "name": "Ella Johnson",
+      "course": "C#",
+      "Email": "ella@email.com",
+      "phone": 5556667777,
+      "created_at": "2023-01-20T11:20:05.0000z",
+      "updated_at": "2023-01-20T15:18:30.0000z"
+    },
+    {
+      "id": 5,
+      "name": "Liam Brown",
+      "course": "React",
+      "Email": "liam@email.com",
+      "phone": 9998887777,
+      "created_at": "2023-01-21T16:45:10.0000z",
+      "updated_at": "2023-01-21T18:20:55.0000z"
+    },
+    {
+      "id": 6,
+      "name": "Sophia Wilson",
+      "course": "Vue.js",
+      "Email": "sophia@email.com",
+      "phone": 4445556666,
+      "created_at": "2023-01-22T19:10:25.0000z",
+      "updated_at": "2023-01-23T09:33:40.0000z"
+    },
+    {
+      "id": 7,
+      "name": "Mason Davis",
+      "course": "Angular",
+      "Email": "mason@email.com",
+      "phone": 1112223333,
+      "created_at": "2023-01-23T12:55:30.0000z",
+      "updated_at": "2023-01-24T14:27:15.0000z"
+    },
+    {
+      "id": 8,
+      "name": "Olivia White",
+      "course": "PHP",
+      "Email": "olivia@email.com",
+      "phone": 3332221111,
+      "created_at": "2023-01-24T16:20:40.0000z",
+      "updated_at": "2023-01-24T18:10:50.0000z"
+    },
+    {
+      "id": 9,
+      "name": "Noah Harris",
+      "course": "Ruby",
+      "Email": "noah@email.com",
+      "phone": 7778889999,
+      "created_at": "2023-01-25T20:15:05.0000z",
+      "updated_at": "2023-01-26T09:45:30.0000z"
+    },
+    {
+      "email": "string",
+      "password": "string",
+      "id": 10
+    },
+    {
+      "email": "string",
+      "password": "string",
+      "id": 11
+    },
+    {
+      "email": "string",
+      "password": "string",
+      "id": 12
+    },
+    {
+      "email": "string",
+      "password": "string",
+      "id": 13
+    },
+    {
+      "email": "string",
+      "password": "string",
+      "id": 14
+    },
+    {
+      "email": "string",
+      "password": "string",
+      "id": 15
+    }
+  ]
+}
